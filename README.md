@@ -2,8 +2,8 @@
 
 **Angel’s Website** https://angelbel.netlify.app
 
-<img width="1600" height="825" alt="Screenshot 2025-09-29 at 12 14 15" src="https://github.com/user-attachments/assets/c018a172-0d07-4b29-a87f-b0ba31364bbf" />
-<img width="1600" height="824" alt="Screenshot 2025-09-29 at 12 15 00" src="https://github.com/user-attachments/assets/bb1e1292-f993-44d9-bae8-c09b7dc4230e" />
+<img width="1600" height="778" alt="AB1" src="https://github.com/user-attachments/assets/fd255bb9-46f6-4b2d-bebb-702dfddbd2f0" />
+<img width="1600" height="780" alt="AB2" src="https://github.com/user-attachments/assets/51f02010-a63f-4b85-bdea-c8e8a1f06ddd" />
 
 ---
 
